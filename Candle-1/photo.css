@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.nav-item {
+  
+    font-weight: 350;
+    color: #000000;
+    
+}
+
+.dropdown-item {
+  font-family: 'Poppins', sans-serif;
+    font-weight: 350;
+    color: #000000;
+    text-decoration: none;
+}
+
+.form-control {
+   
+    color: #000000;
+    
+ }
